@@ -5,9 +5,14 @@ This repository contains a skeleton of an exchange-rate library.
 The task is to complete the library, so that the methods defined in ExchangeRateService are completed.
 Testcases should probably also be improved and expanded upon.
 
+Focus should be on writing good code, not adding the most features possible.
+
 The code should use this API: https://exchangeratesapi.io/.
 
 Delivery should either be a fork of the repository or a zipfile containing the entire repository.
+
+Estimation for the task is around 2 hours.
+Additional features and suggestions that didn't make it into the code can be explained and put in a txt file.
 
 ## Things To Consider
 
