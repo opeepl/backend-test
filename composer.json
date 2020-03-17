@@ -3,7 +3,7 @@
     "description": "PHP Test for candidates",
     "type": "project",
     "require": {
-        "php": ">=7.2.0"
+        "php": ">=7.3.0"
     },
     "autoload": {
         "psr-4": {
