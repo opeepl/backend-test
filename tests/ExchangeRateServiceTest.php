@@ -3,7 +3,7 @@ namespace Opeepl\BackendTest\Service;
 
 use PHPUnit\Framework\TestCase;
 
-class ExchangeRateServiceTets extends TestCase {
+class ExchangeRateServiceTest extends TestCase {
 
     protected $exchangeRateService;
 
