@@ -3,11 +3,12 @@
 This repository contains a skeleton of an exchange-rate library.
 
 The task is to complete the library, so that the methods defined in ExchangeRateService are completed.
-Testcases should probably also be improved and expanded upon.
+Testcases should also be improved and expanded upon.
 
 Focus should be on writing good code, not adding the most features possible.
 
-The code should use this API: https://exchangeratesapi.io/.
+The code should use the free [Exchange Rates API](https://apilayer.com/marketplace/exchangerates_data-api).
+You can sign up for a free api key.
 
 Delivery should either be a fork of the repository or a zipfile containing the entire repository.
 
