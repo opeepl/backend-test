@@ -20,7 +20,7 @@ Additional features and suggestions that didn't make it into the code can be exp
 - We want to keep the number of calls to the API to a minimum - also across multiple php processes.
 - We want it to be easy to switch to another exchange rate API.
 - We want to be able to support multiple APIs AT THE SAME TIME. For instance adding an API that has cryptocurrency exchange rates.
-- We want to be able to support exchanging between currencies defined in separate exchange rate APIs. What are the requirements for doing that?
+- We want to be able to support calculating the exchange rate between currencies defined in separate exchange rate APIs. What are the requirements for doing that?
 
 ## Getting Started
 
